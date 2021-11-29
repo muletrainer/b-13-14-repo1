@@ -1,4 +1,7 @@
-This is the file01, created in remote repo.
+This is the file01, created in remote repo for clone command.
 
 
-This is the file01, updated in local repo.
+This is the file01, updated in local repo for push command.
+
+
+This is the file01, updated in remote repo for pull command
